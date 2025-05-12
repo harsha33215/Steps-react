@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Steps />
-      <Steps />
+     
     </>
   );
 }
